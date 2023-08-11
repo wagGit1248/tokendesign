@@ -1,0 +1,46 @@
+{
+  "radius": {
+    "extra-large": {
+      "attributes": {
+        "type": "number"
+      },
+      "value": "{number.multi 3-5}"
+    },
+    "large": {
+      "attributes": {
+        "type": "number"
+      },
+      "value": "{number.multi 3}"
+    },
+    "small": {
+      "attributes": {
+        "type": "number"
+      },
+      "value": "{number.multi 2}"
+    },
+    "medium": {
+      "attributes": {
+        "type": "number"
+      },
+      "value": "{number.multi 2-5}"
+    },
+    "full": {
+      "attributes": {
+        "type": "number"
+      },
+      "value": 200
+    },
+    "extra-small": {
+      "attributes": {
+        "type": "number"
+      },
+      "value": "{number.base}"
+    },
+    "none": {
+      "attributes": {
+        "type": "number"
+      },
+      "value": "{number.none}"
+    }
+  }
+}
