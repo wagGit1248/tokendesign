@@ -1,7 +1,7 @@
 
 # Design Token
 
-Systematize variables in JSON fortmat to synchronize from designing to coding (2023)
+Systematize variables in JSON format to synchronize from designing to coding (2023)
 
 ## Token Structure
 

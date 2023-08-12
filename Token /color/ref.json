@@ -1,66 +1,4 @@
 {
-  "alpha secondary": {
-    "5": {
-      "attributes": {
-        "category": "color"
-      },
-      "value": "rgba(126, 172, 47, 0.0500)"
-    },
-    "10": {
-      "attributes": {
-        "category": "color"
-      },
-      "value": "rgba(126, 172, 47, 0.1000)"
-    },
-    "20": {
-      "attributes": {
-        "category": "color"
-      },
-      "value": "rgba(126, 172, 47, 0.2000)"
-    },
-    "30": {
-      "attributes": {
-        "category": "color"
-      },
-      "value": "rgba(126, 172, 47, 0.3000)"
-    },
-    "40": {
-      "attributes": {
-        "category": "color"
-      },
-      "value": "rgba(126, 172, 47, 0.4000)"
-    },
-    "50": {
-      "attributes": {
-        "category": "color"
-      },
-      "value": "rgba(126, 172, 47, 0.5000)"
-    },
-    "60": {
-      "attributes": {
-        "category": "color"
-      },
-      "value": "rgba(126, 172, 47, 0.6000)"
-    },
-    "70": {
-      "attributes": {
-        "category": "color"
-      },
-      "value": "rgba(126, 172, 47, 0.7000)"
-    },
-    "80": {
-      "attributes": {
-        "category": "color"
-      },
-      "value": "rgba(126, 172, 47, 0.8000)"
-    },
-    "90": {
-      "attributes": {
-        "category": "color"
-      },
-      "value": "rgba(126, 172, 47, 0.9000)"
-    }
-  },
   "number": {
     "multi 20": {
       "attributes": {
@@ -800,7 +738,7 @@
       "attributes": {
         "category": "color"
       },
-      "value": "rgba(0, 0, 0, 0.1000)"
+      "value": "rgba(23, 22, 22, 0.1000)"
     },
     "20": {
       "attributes": {
