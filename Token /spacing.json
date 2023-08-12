@@ -78,6 +78,30 @@
       },
       "value": "{number.multi 16}"
     },
+    "1800": {
+      "attributes": {
+        "type": "spacing"
+      },
+      "value": "{number.multi 18}"
+    },
+    "2000": {
+      "attributes": {
+        "type": "spacing"
+      },
+      "value": "{number.multi 20}"
+    },
+    "3000": {
+      "attributes": {
+        "type": "spacing"
+      },
+      "value": "{number.multi 30}"
+    },
+    "60000": {
+      "attributes": {
+        "type": "spacing"
+      },
+      "value": "{number.multi 60}"
+    },
     "none": {
       "attributes": {
         "type": "spacing"
