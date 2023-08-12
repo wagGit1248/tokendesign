@@ -1,32 +1,4 @@
 {
-  "hello": {
-    "default": {
-      "label-color": {
-        "attributes": {
-          "category": "color"
-        },
-        "value": "{core.content.primary}"
-      },
-      "divider-color": {
-        "attributes": {
-          "category": "color"
-        },
-        "value": "{transparent}"
-      },
-      "container-outline-color": {
-        "attributes": {
-          "category": "color"
-        },
-        "value": "{transparent}"
-      },
-      "container-color": {
-        "attributes": {
-          "category": "color"
-        },
-        "value": "{transparent}"
-      }
-    }
-  },
   "text-field": {
     "alpha": {
       "disable": {
