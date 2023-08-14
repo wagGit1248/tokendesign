@@ -638,7 +638,7 @@
     }
   },
   "core": {
-    "\bbackground": {
+    "background": {
       "tertiary-60": {
         "attributes": {
           "category": "color"
