@@ -7,43 +7,43 @@
         },
         "value": "{warning.50}"
       },
-      "positive-light-hover": {
+      "positive-light-plus": {
         "attributes": {
           "category": "color"
         },
         "value": "{success.80}"
       },
-      "warning-light-hover": {
+      "warning-light-plus": {
         "attributes": {
           "category": "color"
         },
         "value": "{warning.80}"
       },
-      "positive-hover": {
+      "positive-plus": {
         "attributes": {
           "category": "color"
         },
         "value": "{success.50}"
       },
-      "accent-light-hover": {
+      "accent-light-plus": {
         "attributes": {
           "category": "color"
         },
         "value": "{info.80}"
       },
-      "accent-hover": {
+      "accent-plus": {
         "attributes": {
           "category": "color"
         },
         "value": "{info.50}"
       },
-      "negative-hover": {
+      "negative-plus": {
         "attributes": {
           "category": "color"
         },
         "value": "{error.50}"
       },
-      "negative-light-hover": {
+      "negative-light-plus": {
         "attributes": {
           "category": "color"
         },
@@ -688,6 +688,54 @@
           "category": "color"
         },
         "value": "{primary.0}"
+      },
+      "accent-plus": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{info.0}"
+      },
+      "accent-minus": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{info.20}"
+      },
+      "warning-minus": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{warning.20}"
+      },
+      "warning-plus": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{warning.0}"
+      },
+      "negative-plus": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{error.0}"
+      },
+      "positive-minus": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{success.20}"
+      },
+      "positive-plus": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{success.0}"
+      },
+      "negative-minus": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{error.20}"
       }
     }
   },

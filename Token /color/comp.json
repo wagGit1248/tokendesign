@@ -12,7 +12,7 @@
           "attributes": {
             "category": "color"
           },
-          "value": "{core-extend.content.negative}"
+          "value": "{core-extend.content.negative-minus}"
         },
         "label-text-color": {
           "attributes": {
@@ -44,7 +44,7 @@
           "attributes": {
             "category": "color"
           },
-          "value": "{core-extend.content.negative}"
+          "value": "{core-extend.content.negative-minus}"
         },
         "label-text-color": {
           "attributes": {
@@ -62,7 +62,7 @@
           "attributes": {
             "category": "color"
           },
-          "value": "{core-extend.background.negative-light-hover}"
+          "value": "{core-extend.background.negative-light-plus}"
         }
       },
       "disable": {
@@ -114,7 +114,7 @@
           "attributes": {
             "category": "color"
           },
-          "value": "{core-extend.background.negative-light-hover}"
+          "value": "{core-extend.background.negative-light-plus}"
         },
         "label-text-color": {
           "attributes": {
@@ -126,7 +126,7 @@
           "attributes": {
             "category": "color"
           },
-          "value": "{core-extend.content.negative}"
+          "value": "{core-extend.content.negative-minus}"
         }
       },
       "default": {
@@ -158,7 +158,7 @@
           "attributes": {
             "category": "color"
           },
-          "value": "{core-extend.content.negative}"
+          "value": "{core-extend.content.negative-minus}"
         }
       }
     },
@@ -984,7 +984,7 @@
           "attributes": {
             "category": "color"
           },
-          "value": "{core.content.primary}"
+          "value": "{core.content.primary-30}"
         },
         "container-color": {
           "attributes": {
@@ -1016,7 +1016,7 @@
           "attributes": {
             "category": "color"
           },
-          "value": "{core.content.primary}"
+          "value": "{core.content.primary-30}"
         },
         "container-outline-color": {
           "attributes": {
@@ -1066,7 +1066,7 @@
           "attributes": {
             "category": "color"
           },
-          "value": "{core.content.primary}"
+          "value": "{core.content.primary-30}"
         }
       },
       "disable": {
@@ -1112,7 +1112,7 @@
           "attributes": {
             "category": "color"
           },
-          "value": "{core.content.primary}"
+          "value": "{core.content.primary-30}"
         },
         "container-outline-color": {
           "attributes": {
