@@ -1,7 +1,7 @@
 {
   "core-extend": {
     "background": {
-      "warning-hover": {
+      "warning-plus": {
         "attributes": {
           "category": "color"
         },
@@ -711,7 +711,7 @@
         "attributes": {
           "category": "color"
         },
-        "value": "{warning.60}"
+        "value": "{warning.70}"
       },
       "negative-plus": {
         "attributes": {

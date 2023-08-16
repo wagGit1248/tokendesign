@@ -1,7 +1,7 @@
 {
   "core-extend": {
     "background": {
-      "warning-hover": {
+      "warning-plus": {
         "attributes": {
           "category": "color"
         },
