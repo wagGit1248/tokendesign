@@ -54,6 +54,12 @@
       },
       "value": "{number.multi 8}"
     },
+    "900": {
+      "attributes": {
+        "type": "spacing"
+      },
+      "value": "{number.multi 9}"
+    },
     "1000": {
       "attributes": {
         "type": "spacing"
