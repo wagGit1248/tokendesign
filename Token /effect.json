@@ -19,16 +19,29 @@
       }
     },
     "small": {
-      "description": null,
-      "type": "custom-shadow",
-      "value": {
-        "shadowType": "dropShadow",
-        "radius": 24,
-        "color": "#0000000f",
-        "offsetX": 0,
-        "offsetY": 16,
-        "spread": 0
+      "0": {
+        "type": "custom-shadow",
+        "value": {
+          "shadowType": "dropShadow",
+          "radius": 24,
+          "color": "#0000000f",
+          "offsetX": 0,
+          "offsetY": -4,
+          "spread": 0
+        }
       },
+      "1": {
+        "type": "custom-shadow",
+        "value": {
+          "shadowType": "dropShadow",
+          "radius": 24,
+          "color": "#0000000a",
+          "offsetX": 0,
+          "offsetY": 12,
+          "spread": 10
+        }
+      },
+      "description": null,
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
           "styleId": "S:cb711665799295b32a7c524b21d58a641671faad,",
