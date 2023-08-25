@@ -1,4 +1,146 @@
 {
+  "badge": {
+    "accent": {
+      "badge-container-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{core-extend.background.accent-light}"
+      },
+      "badge-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{transparent}"
+      },
+      "badge-label-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{core-extend.content.accent-plus}"
+      }
+    },
+    "light": {
+      "badge-container-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{core.content.light-alpha-10}"
+      },
+      "badge-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{transparent}"
+      },
+      "badge-label-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{core-extend.content.always-light}"
+      }
+    },
+    "dark": {
+      "badge-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{transparent}"
+      },
+      "badge-container-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{core.background.dark-alpha-10}"
+      },
+      "badge-label-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{core.content.neutral-20}"
+      }
+    },
+    "default": {
+      "badge-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{transparent}"
+      },
+      "badge-label-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{core-extend.content.always-light}"
+      },
+      "badge-container-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{core.background.tertiary}"
+      }
+    },
+    "negative": {
+      "badge-container-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{core-extend.background.negative-light}"
+      },
+      "badge-label-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{core-extend.background.negative}"
+      },
+      "badge-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{transparent}"
+      }
+    },
+    "\bwarning": {
+      "badge-container-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{core-extend.background.warning-light}"
+      },
+      "badge-label-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{core-extend.content.warning-plus}"
+      },
+      "badge-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{transparent}"
+      }
+    },
+    "positive": {
+      "badge-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{transparent}"
+      },
+      "badge-container-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{core-extend.background.positive-light}"
+      },
+      "badge-label-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{core-extend.content.positive-plus}"
+      }
+    }
+  },
   "dropdown": {
     "tertiary": {
       "focus": {
@@ -2092,7 +2234,7 @@
           },
           "value": "{core-extend.content.always-light}"
         },
-        "icon-color": {
+        "leading-icon-color": {
           "attributes": {
             "category": "color"
           },
@@ -3628,68 +3770,6 @@
           "category": "color"
         },
         "value": "{transparent}"
-      }
-    }
-  },
-  "badge": {
-    "light": {
-      "badge-container-color": {
-        "attributes": {
-          "category": "color"
-        },
-        "value": "{core.content.light-alpha-10}"
-      },
-      "badge-color": {
-        "attributes": {
-          "category": "color"
-        },
-        "value": "{transparent}"
-      },
-      "badge-label-color": {
-        "attributes": {
-          "category": "color"
-        },
-        "value": "{core-extend.content.always-light}"
-      }
-    },
-    "dark": {
-      "badge-color": {
-        "attributes": {
-          "category": "color"
-        },
-        "value": "{transparent}"
-      },
-      "badge-container-color": {
-        "attributes": {
-          "category": "color"
-        },
-        "value": "{core.background.dark-alpha-10}"
-      },
-      "badge-label-color": {
-        "attributes": {
-          "category": "color"
-        },
-        "value": "{core.content.neutral-20}"
-      }
-    },
-    "default": {
-      "badge-color": {
-        "attributes": {
-          "category": "color"
-        },
-        "value": "{transparent}"
-      },
-      "badge-label-color": {
-        "attributes": {
-          "category": "color"
-        },
-        "value": "{core-extend.content.always-light}"
-      },
-      "badge-container-color": {
-        "attributes": {
-          "category": "color"
-        },
-        "value": "{core.background.tertiary}"
       }
     }
   },
