@@ -1,5 +1,11 @@
 {
   "spacing": {
+    "50": {
+      "attributes": {
+        "type": "spacing"
+      },
+      "value": "{number.multi 0-2}"
+    },
     "100": {
       "attributes": {
         "type": "spacing"
