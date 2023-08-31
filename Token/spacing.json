@@ -1,0 +1,118 @@
+{
+  "spacing": {
+    "100": {
+      "attributes": {
+        "type": "spacing"
+      },
+      "value": "{number.base}"
+    },
+    "150": {
+      "attributes": {
+        "type": "spacing"
+      },
+      "value": "{number.multi 1-5}"
+    },
+    "200": {
+      "attributes": {
+        "type": "spacing"
+      },
+      "value": "{number.multi 2}"
+    },
+    "250": {
+      "attributes": {
+        "type": "spacing"
+      },
+      "value": "{number.multi 2-5}"
+    },
+    "300": {
+      "attributes": {
+        "type": "spacing"
+      },
+      "value": "{number.multi 3}"
+    },
+    "400": {
+      "attributes": {
+        "type": "spacing"
+      },
+      "value": "{number.multi 4}"
+    },
+    "500": {
+      "attributes": {
+        "type": "spacing"
+      },
+      "value": "{number.multi 5}"
+    },
+    "600": {
+      "attributes": {
+        "type": "spacing"
+      },
+      "value": "{number.multi 6}"
+    },
+    "800": {
+      "attributes": {
+        "type": "spacing"
+      },
+      "value": "{number.multi 8}"
+    },
+    "900": {
+      "attributes": {
+        "type": "spacing"
+      },
+      "value": "{number.multi 9}"
+    },
+    "1000": {
+      "attributes": {
+        "type": "spacing"
+      },
+      "value": "{number.multi 10}"
+    },
+    "1200": {
+      "attributes": {
+        "type": "spacing"
+      },
+      "value": "{number.multi 12}"
+    },
+    "1400": {
+      "attributes": {
+        "type": "spacing"
+      },
+      "value": "{number.multi 14}"
+    },
+    "1600": {
+      "attributes": {
+        "type": "spacing"
+      },
+      "value": "{number.multi 16}"
+    },
+    "1800": {
+      "attributes": {
+        "type": "spacing"
+      },
+      "value": "{number.multi 18}"
+    },
+    "2000": {
+      "attributes": {
+        "type": "spacing"
+      },
+      "value": "{number.multi 20}"
+    },
+    "3000": {
+      "attributes": {
+        "type": "spacing"
+      },
+      "value": "{number.multi 30}"
+    },
+    "60000": {
+      "attributes": {
+        "type": "spacing"
+      },
+      "value": "{number.multi 60}"
+    },
+    "none": {
+      "attributes": {
+        "type": "spacing"
+      },
+      "value": "{number.none}"
+    }
+  }
+}
