@@ -42,13 +42,13 @@
     },
     "item": {
       "press": {
-        "label-text-color-inactive": {
+        "label-text-inactive-color": {
           "attributes": {
             "category": "color"
           },
           "value": "{core.content.neutral-50}"
         },
-        "label-text-color-active": {
+        "label-text-active-color": {
           "attributes": {
             "category": "color"
           },
@@ -74,13 +74,13 @@
         }
       },
       "hover": {
-        "label-text-color-inactive": {
+        "label-text-inactive-color": {
           "attributes": {
             "category": "color"
           },
           "value": "{core.content.neutral-50}"
         },
-        "label-text-color-active": {
+        "label-text-active-color": {
           "attributes": {
             "category": "color"
           },
@@ -118,13 +118,13 @@
           },
           "value": "{transparent}"
         },
-        "label-text-color-inactive": {
+        "label-text-inactive-color": {
           "attributes": {
             "category": "color"
           },
           "value": "{core.content.neutral-50}"
         },
-        "label-text-color-active": {
+        "label-text-active-color": {
           "attributes": {
             "category": "color"
           },
@@ -144,7 +144,7 @@
           },
           "value": "{core.content.primary-0}"
         },
-        "label-text-color-active": {
+        "label-text-active-color": {
           "attributes": {
             "category": "color"
           },
@@ -156,7 +156,7 @@
           },
           "value": "{transparent}"
         },
-        "label-text-color-inactive": {
+        "label-text-inactive-color": {
           "attributes": {
             "category": "color"
           },
@@ -170,7 +170,7 @@
         }
       },
       "disable": {
-        "label-text-color-inactive": {
+        "label-text-inactive-color": {
           "attributes": {
             "category": "color"
           },
@@ -194,7 +194,7 @@
           },
           "value": "{transparent}"
         },
-        "label-text-color-active": {
+        "label-text-active-color": {
           "attributes": {
             "category": "color"
           },
@@ -259,6 +259,12 @@
           "value": "{core.content.neutral-40}"
         }
       }
+    },
+    "range-container-color": {
+      "attributes": {
+        "category": "color"
+      },
+      "value": "{core.background.primary-0}"
     },
     "weekday-label-text-color": {
       "attributes": {
