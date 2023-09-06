@@ -4727,13 +4727,13 @@
         "attributes": {
           "category": "color"
         },
-        "value": "{core.background.neutral-0}"
+        "value": "{core-extend.background.always-dark-alpha-90}"
       },
       "label-text-color": {
         "attributes": {
           "category": "color"
         },
-        "value": "{core.content.neutral-40}"
+        "value": "{core-extend.content.always-light}"
       }
     }
   }
