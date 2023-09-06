@@ -1,4 +1,106 @@
 {
+  "timepicker": {
+    "item": {
+      "disable": {
+        "label-text-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.content.neutral-50}"
+        },
+        "container-outline-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.border.primary-0}"
+        },
+        "container-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{transparent}"
+        }
+      },
+      "default": {
+        "label-text-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.content.neutral-30}"
+        },
+        "container-outline-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.border.primary-10}"
+        },
+        "container-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{transparent}"
+        }
+      }
+    },
+    "button": {
+      "default": {
+        "icon-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.content.neutral-40}"
+        },
+        "container-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{transparent}"
+        }
+      },
+      "press": {
+        "icon-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.content.neutral-40}"
+        },
+        "container-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.background.primary-10}"
+        }
+      },
+      "disable": {
+        "container-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{transparent}"
+        },
+        "icon-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.content.inverse-neutral-30}"
+        }
+      },
+      "hover": {
+        "icon-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.content.neutral-30}"
+        },
+        "container-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{transparent}"
+        }
+      }
+    }
+  },
   "datepicker": {
     "container-color": {
       "attributes": {
