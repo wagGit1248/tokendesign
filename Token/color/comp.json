@@ -160,7 +160,7 @@
           "attributes": {
             "category": "color"
           },
-          "value": "{core.content.neutral-30}"
+          "value": "{core.content.neutral-20}"
         },
         "container-outline-color": {
           "attributes": {
@@ -192,7 +192,7 @@
           "attributes": {
             "category": "color"
           },
-          "value": "{core.content.neutral-30}"
+          "value": "{core.content.neutral-20}"
         },
         "container-color": {
           "attributes": {
@@ -212,7 +212,7 @@
           "attributes": {
             "category": "color"
           },
-          "value": "{core.content.neutral-30}"
+          "value": "{core.content.neutral-20}"
         },
         "container-color": {
           "attributes": {
