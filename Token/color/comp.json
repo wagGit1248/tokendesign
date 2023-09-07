@@ -3809,6 +3809,12 @@
         },
         "value": "{core.content.primary}"
       },
+      "label-error-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{core-extend.content.negative}"
+      },
       "container-color": {
         "attributes": {
           "category": "color"
@@ -4127,7 +4133,7 @@
         "attributes": {
           "category": "color"
         },
-        "value": "{core.content.neutral-40}"
+        "value": "{core.content.neutral-20}"
       },
       "icon-selected-color": {
         "attributes": {
