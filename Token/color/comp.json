@@ -2566,6 +2566,20 @@
         "value": "{core-extend.content.always-light}"
       }
     },
+    "grey": {
+      "badge-container-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{core.background.neutral-10}"
+      },
+      "badge-label-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{core.content.neutral-30}"
+      }
+    },
     "dark": {
       "badge-color": {
         "attributes": {
@@ -4307,6 +4321,14 @@
         },
         "value": "{core.content.neutral-40}"
       }
+    }
+  },
+  "Blanket": {
+    "container-color": {
+      "attributes": {
+        "category": "color"
+      },
+      "value": "{core-extend.background.always-dark-alpha-30}"
     }
   },
   "sidebar": {
