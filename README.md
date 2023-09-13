@@ -1,5 +1,5 @@
 
-# Design Token [📣Release Note](https://www.figma.com/file/YMlHvGSiV4JbEmkqpkvou1/Design-system?type=design&node-id=4223-3362&mode=design)
+# Design Token  [ 📣 Release Note ](https://www.figma.com/file/YMlHvGSiV4JbEmkqpkvou1/Design-system?type=design&node-id=4223-3362&mode=design)
 
 Systematize variables in JSON format to synchronize from designing to coding (2023)
 
