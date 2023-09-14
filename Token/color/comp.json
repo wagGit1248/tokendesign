@@ -1621,6 +1621,116 @@
       }
     }
   },
+  "link": {
+    "default": {
+      "trailing-icon-error-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{core-extend.content.negative}"
+      },
+      "trailing-icon-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{core.content.primary}"
+      },
+      "divider-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{transparent}"
+      },
+      "label-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{core.content.primary}"
+      },
+      "container-outline-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{transparent}"
+      },
+      "container-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{transparent}"
+      },
+      "label-error-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{core-extend.content.negative}"
+      }
+    },
+    "\bselected": {
+      "trailing-icon-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{core.content.secondary}"
+      },
+      "divider-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{transparent}"
+      },
+      "container-outline-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{transparent}"
+      },
+      "container-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{transparent}"
+      },
+      "label-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{core.content.secondary}"
+      }
+    },
+    "hover": {
+      "trailing-icon-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{core.content.primary-70}"
+      },
+      "label-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{core.content.primary-70}"
+      },
+      "divider-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{transparent}"
+      },
+      "container-outline-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{transparent}"
+      },
+      "container-color": {
+        "attributes": {
+          "category": "color"
+        },
+        "value": "{transparent}"
+      }
+    }
+  },
   "Toast": {
     "info": {
       "close-icon-color": {
@@ -4868,92 +4978,6 @@
           "category": "color"
         },
         "value": "{core.border.primary}"
-      }
-    }
-  },
-  "link": {
-    "\bselected": {
-      "divider-color": {
-        "attributes": {
-          "category": "color"
-        },
-        "value": "{transparent}"
-      },
-      "container-outline-color": {
-        "attributes": {
-          "category": "color"
-        },
-        "value": "{transparent}"
-      },
-      "container-color": {
-        "attributes": {
-          "category": "color"
-        },
-        "value": "{transparent}"
-      },
-      "label-color": {
-        "attributes": {
-          "category": "color"
-        },
-        "value": "{core.content.secondary}"
-      }
-    },
-    "hover": {
-      "label-color": {
-        "attributes": {
-          "category": "color"
-        },
-        "value": "{core.content.primary-70}"
-      },
-      "divider-color": {
-        "attributes": {
-          "category": "color"
-        },
-        "value": "{transparent}"
-      },
-      "container-outline-color": {
-        "attributes": {
-          "category": "color"
-        },
-        "value": "{transparent}"
-      },
-      "container-color": {
-        "attributes": {
-          "category": "color"
-        },
-        "value": "{transparent}"
-      }
-    },
-    "default": {
-      "divider-color": {
-        "attributes": {
-          "category": "color"
-        },
-        "value": "{transparent}"
-      },
-      "label-color": {
-        "attributes": {
-          "category": "color"
-        },
-        "value": "{core.content.primary}"
-      },
-      "container-outline-color": {
-        "attributes": {
-          "category": "color"
-        },
-        "value": "{transparent}"
-      },
-      "container-color": {
-        "attributes": {
-          "category": "color"
-        },
-        "value": "{transparent}"
-      },
-      "label-error-color": {
-        "attributes": {
-          "category": "color"
-        },
-        "value": "{core-extend.content.negative}"
       }
     }
   },
