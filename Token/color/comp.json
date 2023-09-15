@@ -70,19 +70,19 @@
           "attributes": {
             "category": "color"
           },
-          "value": "{core.content.neutral-40}"
+          "value": "{core.content.neutral-50}"
         },
         "leading-icon-color": {
           "attributes": {
             "category": "color"
           },
-          "value": "{core.content.neutral-40}"
+          "value": "{core.content.neutral-50}"
         },
         "label-text-color": {
           "attributes": {
             "category": "color"
           },
-          "value": "{core.content.neutral-40}"
+          "value": "{core.content.neutral-50}"
         },
         "container-outline-color": {
           "attributes": {
@@ -134,25 +134,25 @@
           "attributes": {
             "category": "color"
           },
-          "value": "{core.content.primary-40}"
+          "value": "{core.content.neutral-30}"
         },
         "leading-icon-color": {
           "attributes": {
             "category": "color"
           },
-          "value": "{core.content.primary-40}"
+          "value": "{core.content.neutral-30}"
         },
         "label-text-color": {
           "attributes": {
             "category": "color"
           },
-          "value": "{core.content.primary}"
+          "value": "{core.content.neutral-30}"
         },
         "container-outline-color": {
           "attributes": {
             "category": "color"
           },
-          "value": "{core.border.primary-40}"
+          "value": "{core.border.neutral-10}"
         },
         "container-color": {
           "attributes": {
