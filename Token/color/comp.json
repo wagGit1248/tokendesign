@@ -3930,7 +3930,7 @@
           "attributes": {
             "category": "color"
           },
-          "value": "{core.content.neutral-20}"
+          "value": "{core.content.neutral-30}"
         },
         "divider-color": {
           "attributes": {
@@ -3986,7 +3986,7 @@
           "attributes": {
             "category": "color"
           },
-          "value": "{core.content.neutral-20}"
+          "value": "{core.content.neutral-30}"
         }
       }
     },
