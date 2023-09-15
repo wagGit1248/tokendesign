@@ -1,5 +1,167 @@
 {
   "button": {
+    "secondary-light": {
+      "selected": {
+        "trailing-icon-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.content.secondary}"
+        },
+        "leading-icon-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.content.secondary-40}"
+        },
+        "container-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.background.secondary-0}"
+        },
+        "container-outline-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.content.secondary}"
+        },
+        "label-text-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.content.secondary}"
+        }
+      },
+      "pressed": {
+        "trailing-icon-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.content.secondary}"
+        },
+        "leading-icon-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.content.secondary-40}"
+        },
+        "container-outline-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{transparent}"
+        },
+        "container-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.background.secondary-10}"
+        },
+        "label-text-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.content.secondary}"
+        }
+      },
+      "disable": {
+        "trailing-icon-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.content.neutral-40}"
+        },
+        "leading-icon-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.content.neutral-40}"
+        },
+        "label-text-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.content.neutral-40}"
+        },
+        "container-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.background.neutral-30}"
+        },
+        "container-outline-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{transparent}"
+        }
+      },
+      "default": {
+        "trailing-icon-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.content.secondary}"
+        },
+        "label-text-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.content.secondary}"
+        },
+        "container-outline-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{transparent}"
+        },
+        "container-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.background.secondary-0}"
+        },
+        "leading-icon-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.content.secondary}"
+        }
+      },
+      "hover": {
+        "container-outline-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{transparent}"
+        },
+        "container-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.background.secondary-10}"
+        },
+        "leading-icon-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.content.secondary-40}"
+        },
+        "label-text-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.content.secondary}"
+        },
+        "trailing-icon-color": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{core.content.secondary}"
+        }
+      }
+    },
     "\blight": {
       "selected": {
         "trailing-icon-color": {
