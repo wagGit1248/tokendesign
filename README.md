@@ -1,6 +1,6 @@
 
 <<<<<<< HEAD
-# Design Token - Ok 1olkjhjlj
+# Design Tokenn
 =======
 # Design Token  [ 📣 Release Note ](https://www.figma.com/file/YMlHvGSiV4JbEmkqpkvou1/Design-system?type=design&node-id=4223-3362&mode=design)
 >>>>>>> 8f79fb54b10a53682ad0264dc44b52fc1f3e628b
