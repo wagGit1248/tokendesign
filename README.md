@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 # Design Token - Hello
+=======
+# Design Token  [ 📣 Release Note ](https://www.figma.com/file/YMlHvGSiV4JbEmkqpkvou1/Design-system?type=design&node-id=4223-3362&mode=design)
+>>>>>>> 8f79fb54b10a53682ad0264dc44b52fc1f3e628b
 
 Systematize variables in JSON format to synchronize from designing to coding (2023)
 
@@ -72,5 +76,5 @@ The designers
 - [@tien]()
 - [@tabby]()
 - [@wagtrung](https://wagtrung.com/)
-
+- [@Github](https://github.com/wagGit1248/tokendesign)
 
